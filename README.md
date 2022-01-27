@@ -1,4 +1,4 @@
--![gif](programming.gif)
+-![gif](coder2.gif)
 
 ## **Hey, I'm KARAMBIR SINGH!** 👋
 
