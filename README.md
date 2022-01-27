@@ -1,8 +1,47 @@
-- 👋 Hi, I’m karambir singh
-- 👀 I’m interested in learning 
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on ...
--
+-![gif](programming.gif)
+
+## **Hey, I'm KARAMBIR SINGH!** 👋
+
+- 🌱 Learning FULL STACK WEB DEVELOPMENT
+- 🔭 Working on open source projects
+- 👯 Open to collaborate on projects
+- 📫 Reach me at  [**LinkedIn**](https://linkedin.com/in/karambir-singh-rathorekv)
+
+
+## Skills 🚀
+
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/Styled%20Components-d06ebe?style=for-the-badge&logo=styled-components&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+
+
+
+
+
+
+## Find me around the web 🌍
+
+- [**LinkedIn**](https://www.linkedin.com/in/karambir-singh-rathorekv)
+
+********
+
+  
+<details>
+  <summary>📊 Github Stats</summary>
+
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=codingknite&show_icons=true&theme=gotham" alt="Joel's Stats" /> 
+
+</details>
+
+  #### Profile Views
+  
+![Visitor Count](https://profile-counter.glitch.me/{rathore-kv}/count.svg) 
 
 <!---
 rathore-kv/rathore-kv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
