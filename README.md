@@ -3,7 +3,7 @@
 ## **Hey, I'm KARAMBIR SINGH!** 👋
 
 ## 🌱 Learning Three.js
-# 🔭 Working on open react projects
+# 🔭 Working on react projects
 #  👯 Open to collaborate on projects
 # 📫 Reach me at  [**LinkedIn**](https://linkedin.com/in/karambir-singh-rathorekv) |   [**Twitter**](https://twitter.com/Rathore_kv2498)
 
