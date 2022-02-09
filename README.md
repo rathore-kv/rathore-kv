@@ -39,7 +39,7 @@
 <details>
   <summary>📊 Github Stats</summary>
 
-  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=codingknite&show_icons=true&theme=gotham" alt="Joel's Stats" /> 
+  <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=rathore-kv&show_icons=true&theme=gotham" alt="KV's Stats" /> 
 
 </details>
 
